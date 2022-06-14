@@ -1,0 +1,1 @@
+{"virtualbox":{"/file-web1":{"guestpath":"/file-web1","hostpath":"C:/Users/ta.sukantono/Documents/test","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/Tri/Learn/DevOps/vagrant/vagrant-test","disabled":false,"__vagrantfile":true}}}
